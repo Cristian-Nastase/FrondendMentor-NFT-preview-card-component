@@ -13,7 +13,7 @@ The website was done using only:
 
 ## Link to Website (hosted with GitHub Pages)
 
-- [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-html-vanilla-css-and-js-DQqC0IUnVz)
+- [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-card-component-using-bem-naming-conventions-Nl2hlWu7p4)
 - [Live Site URL - GitHub Pages](https://cristian-nastase.github.io/FrondendMentor-NFT-preview-card-component/)
 
 
